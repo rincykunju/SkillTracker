@@ -1,0 +1,11 @@
+C:\Final\SkillTrackerAPI\SkillTracker\SkillTracker_DataLayer\bin\Release\SkillTracker_DataLayer.dll.config
+C:\Final\SkillTrackerAPI\SkillTracker\SkillTracker_DataLayer\bin\Release\SkillTracker_DataLayer.dll
+C:\Final\SkillTrackerAPI\SkillTracker\SkillTracker_DataLayer\bin\Release\SkillTracker_DataLayer.pdb
+C:\Final\SkillTrackerAPI\SkillTracker\SkillTracker_DataLayer\bin\Release\EntityFramework.dll
+C:\Final\SkillTrackerAPI\SkillTracker\SkillTracker_DataLayer\bin\Release\EntityFramework.SqlServer.dll
+C:\Final\SkillTrackerAPI\SkillTracker\SkillTracker_DataLayer\bin\Release\System.Data.SqlServerCe.dll
+C:\Final\SkillTrackerAPI\SkillTracker\SkillTracker_DataLayer\bin\Release\EntityFramework.xml
+C:\Final\SkillTrackerAPI\SkillTracker\SkillTracker_DataLayer\bin\Release\EntityFramework.SqlServer.xml
+C:\Final\SkillTrackerAPI\SkillTracker\SkillTracker_DataLayer\obj\Release\SkillTracker_DataLayer.csprojResolveAssemblyReference.cache
+C:\Final\SkillTrackerAPI\SkillTracker\SkillTracker_DataLayer\obj\Release\SkillTracker_DataLayer.dll
+C:\Final\SkillTrackerAPI\SkillTracker\SkillTracker_DataLayer\obj\Release\SkillTracker_DataLayer.pdb
